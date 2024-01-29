@@ -1,0 +1,7 @@
+
+gonri1; Ivan Gonzalez Rivas; calle alcalde pedro gonzalez gonzalez 2, portal 6, puerta 2b; iphone; 3; 0; 0; 24-01-22
+emmala1; Emma Gonzalez Martinez; calle alcalde pedro gonzalez gonzalez 2, portal 6, puerta 2b; iphone; 12; 0; 0; 24-01-22
+emmala1; Emma Gonzalez Martinez; calle alcalde pedro gonzalez gonzalez 2, portal 6, puerta 2b; roomba; 0; 4; 0; 24-01-22
+emmala1;Emma Gonzalez;calle alcalde pedro gonzalez gonzalez 2, portal 6, puerta 2b;reloj;0;0;3;24-01-22
+mamen;Mamen Martinez;calle alcalde pedro gonzalez gonzalez 2, portal 6, puerta 2b;iphone;1;1;1;24-01-22
+antonio;Antonio Gonzalez Martinez;calle alcalde pedro gonzalez gonzalez 2, portal 6, puerta 2b;iphone;2;0;0;24-01-24
